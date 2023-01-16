@@ -1590,11 +1590,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Cursos\\Projetos\\SmartON\\SmartOn_Back\\Service\\Service.csproj",
+      "projectUniqueName": "C:\\prj\\Projeto-Especial\\SmartOn_Back\\Service\\Service.csproj",
       "projectName": "Service",
-      "projectPath": "C:\\Cursos\\Projetos\\SmartON\\SmartOn_Back\\Service\\Service.csproj",
+      "projectPath": "C:\\prj\\Projeto-Especial\\SmartOn_Back\\Service\\Service.csproj",
       "packagesPath": "C:\\Users\\gussi\\.nuget\\packages\\",
-      "outputPath": "C:\\Cursos\\Projetos\\SmartON\\SmartOn_Back\\Service\\obj\\",
+      "outputPath": "C:\\prj\\Projeto-Especial\\SmartOn_Back\\Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gussi\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1609,11 +1609,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Cursos\\Projetos\\SmartON\\SmartOn_Back\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Cursos\\Projetos\\SmartON\\SmartOn_Back\\Domain\\Domain.csproj"
+            "C:\\prj\\Projeto-Especial\\SmartOn_Back\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\prj\\Projeto-Especial\\SmartOn_Back\\Domain\\Domain.csproj"
             },
-            "C:\\Cursos\\Projetos\\SmartON\\SmartOn_Back\\Infra-Data\\Infra-Data.csproj": {
-              "projectPath": "C:\\Cursos\\Projetos\\SmartON\\SmartOn_Back\\Infra-Data\\Infra-Data.csproj"
+            "C:\\prj\\Projeto-Especial\\SmartOn_Back\\Infra-Data\\Infra-Data.csproj": {
+              "projectPath": "C:\\prj\\Projeto-Especial\\SmartOn_Back\\Infra-Data\\Infra-Data.csproj"
             }
           }
         }

@@ -1829,11 +1829,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Cursos\\Projetos\\SmartON\\SmartOn_Back\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\prj\\Projeto-Especial\\SmartOn_Back\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Cursos\\Projetos\\SmartON\\SmartOn_Back\\Application\\Application.csproj",
+      "projectPath": "C:\\prj\\Projeto-Especial\\SmartOn_Back\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\gussi\\.nuget\\packages\\",
-      "outputPath": "C:\\Cursos\\Projetos\\SmartON\\SmartOn_Back\\Application\\obj\\",
+      "outputPath": "C:\\prj\\Projeto-Especial\\SmartOn_Back\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gussi\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1848,14 +1848,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Cursos\\Projetos\\SmartON\\SmartOn_Back\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Cursos\\Projetos\\SmartON\\SmartOn_Back\\Domain\\Domain.csproj"
+            "C:\\prj\\Projeto-Especial\\SmartOn_Back\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\prj\\Projeto-Especial\\SmartOn_Back\\Domain\\Domain.csproj"
             },
-            "C:\\Cursos\\Projetos\\SmartON\\SmartOn_Back\\Infra-Data\\Infra-Data.csproj": {
-              "projectPath": "C:\\Cursos\\Projetos\\SmartON\\SmartOn_Back\\Infra-Data\\Infra-Data.csproj"
+            "C:\\prj\\Projeto-Especial\\SmartOn_Back\\Infra-Data\\Infra-Data.csproj": {
+              "projectPath": "C:\\prj\\Projeto-Especial\\SmartOn_Back\\Infra-Data\\Infra-Data.csproj"
             },
-            "C:\\Cursos\\Projetos\\SmartON\\SmartOn_Back\\Service\\Service.csproj": {
-              "projectPath": "C:\\Cursos\\Projetos\\SmartON\\SmartOn_Back\\Service\\Service.csproj"
+            "C:\\prj\\Projeto-Especial\\SmartOn_Back\\Service\\Service.csproj": {
+              "projectPath": "C:\\prj\\Projeto-Especial\\SmartOn_Back\\Service\\Service.csproj"
             }
           }
         }

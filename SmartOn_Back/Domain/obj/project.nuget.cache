@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U7nRBDXZSTz2fk6GJV682OsTP+2KY1W2oBTqVx2lyneOs/ns5FeARuKfxwXTXsy8qlYzQwsQQIW8JZ+AavxBiA==",
+  "dgSpecHash": "c2aZ+SbC1J9c8QHikg4aAufTh/Z0YHhczU7w+3/8OCwHZ2vgIi1Sgd9pbhwVU+7tawZZWv1tFyayVxfQpQ52mQ==",
   "success": true,
-  "projectFilePath": "C:\\Cursos\\Projetos\\SmartON\\SmartOn_Back\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\prj\\Projeto-Especial\\SmartOn_Back\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

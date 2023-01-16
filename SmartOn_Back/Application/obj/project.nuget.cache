@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "szPe5BLUmQSpLsJ+h4TtgEH2QOnrh6s2LmRc8S9of/jSRSPxYWFnJy8lpt+HaOGbpvOlZVWUl0piM76C4Ebcrw==",
+  "dgSpecHash": "3IoKHpobETvThnuskHCyzsLQEMMMCDBElZjYF+djBbJECHVe0NGVaV/QHMZS5scom62v9EeJRE/kr7Jvad4Q5Q==",
   "success": true,
-  "projectFilePath": "C:\\Cursos\\Projetos\\SmartON\\SmartOn_Back\\Application\\Application.csproj",
+  "projectFilePath": "C:\\prj\\Projeto-Especial\\SmartOn_Back\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gussi\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\gussi\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

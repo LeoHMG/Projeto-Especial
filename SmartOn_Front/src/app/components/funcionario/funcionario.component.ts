@@ -78,11 +78,11 @@ export class FuncionarioComponent implements OnInit {
     this.api.deleteFuncionario(id)
     .subscribe({
       next:(res)=>{
-        alert("Departamento deletado com sucesso");
+        alert("Funcionário deletado com sucesso");
         this.getAllFuncionario();
       },
       error:()=>{
-        alert("Não foi possivel deletar o departamento")
+        alert("Não foi possivel deletar o funcionário")
       }
     })
   }

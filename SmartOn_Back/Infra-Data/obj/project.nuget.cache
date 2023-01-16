@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XsQ0dDh/M1KQWvU/gxlIPhchZwHnqiUMNRTqwBpB+PEj4NFG1a+m1DUOvz45yJrkgt0epwsvN1T5EUkep65beg==",
+  "dgSpecHash": "LkGl0b8h/ak71UqZTNmH2T25zw3Uj06Yesor9rY/+pQs/B1r7IWcBHmHmeg6Z4p/BjWLbSSNIkRj+8AkcAoloQ==",
   "success": true,
-  "projectFilePath": "C:\\Cursos\\Projetos\\SmartON\\SmartOn_Back\\Infra-Data\\Infra-Data.csproj",
+  "projectFilePath": "C:\\prj\\Projeto-Especial\\SmartOn_Back\\Infra-Data\\Infra-Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gussi\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\gussi\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

@@ -22,3 +22,15 @@ C:\Cursos\Projetos\SmartON\SmartOn_Back\Domain\obj\Debug\net6.0\Domain.dll
 C:\Cursos\Projetos\SmartON\SmartOn_Back\Domain\obj\Debug\net6.0\refint\Domain.dll
 C:\Cursos\Projetos\SmartON\SmartOn_Back\Domain\obj\Debug\net6.0\Domain.pdb
 C:\Cursos\Projetos\SmartON\SmartOn_Back\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\prj\Projeto-Especial\SmartOn_Back\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\prj\Projeto-Especial\SmartOn_Back\Domain\bin\Debug\net6.0\Domain.dll
+C:\prj\Projeto-Especial\SmartOn_Back\Domain\bin\Debug\net6.0\Domain.pdb
+C:\prj\Projeto-Especial\SmartOn_Back\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\prj\Projeto-Especial\SmartOn_Back\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\prj\Projeto-Especial\SmartOn_Back\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\prj\Projeto-Especial\SmartOn_Back\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\prj\Projeto-Especial\SmartOn_Back\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\prj\Projeto-Especial\SmartOn_Back\Domain\obj\Debug\net6.0\Domain.dll
+C:\prj\Projeto-Especial\SmartOn_Back\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\prj\Projeto-Especial\SmartOn_Back\Domain\obj\Debug\net6.0\Domain.pdb
+C:\prj\Projeto-Especial\SmartOn_Back\Domain\obj\Debug\net6.0\ref\Domain.dll
